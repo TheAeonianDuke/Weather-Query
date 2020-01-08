@@ -1,2 +1,2 @@
 # Weather-Query
-Python Project to scrape and parse Weather Information.
+Python Project for CSE101 Course to scrape and parse Weather Information.
